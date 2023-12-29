@@ -11,16 +11,16 @@ noted accordingly.
 A simple Command Line Interface (CLI) application written in Python that compares two CSV files and identifies any discrepancies between their columns.
 
 ### To run the program.
-""" 
-    python runner.py 
-"""
+`python runner.py`
 
 ### More options.
-usage: runner.py [-h] [-o] [-s] [-t] [-r] 
- 
-Optional arguments: 
--h, --help       show this help message and exit 
--o, --output     show path to reconciliation report 
--s, --source     show path to source csv file 
--t, --target     show path to target csv file 
--r, --reconcile  show results and generate a report 
+```
+    usage: runner.py [-h] [-o] [-s] [-t] [-r] 
+    
+    Optional arguments: 
+    -h, --help       show this help message and exit 
+    -o, --output     show path to reconciliation report 
+    -s, --source     show path to source csv file 
+    -t, --target     show path to target csv file 
+    -r, --reconcile  show results and generate a report 
+```
