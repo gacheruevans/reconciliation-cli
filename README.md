@@ -7,7 +7,7 @@ The program takes in two CSV file paths as arguments and outputs the differences
 The comparison is done column by column, so if one CSV has an extra column or different values in a specific column compared to another, it will be
 noted accordingly.
 
-# Reconciler-CLI
+## Reconciler-CLI
 A simple Command Line Interface (CLI) application written in Python that compares two CSV files and identifies any discrepancies between their columns.
 
 ### To run the program.
