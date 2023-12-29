@@ -11,7 +11,9 @@ noted accordingly.
 A simple Command Line Interface (CLI) application written in Python that compares two CSV files and identifies any discrepancies between their columns.
 
 ### To run the program.
-""" python runner.py """
+""" 
+    python runner.py 
+"""
 
 ### More options.
 usage: runner.py [-h] [-o] [-s] [-t] [-r] 
